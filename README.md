@@ -20,7 +20,8 @@ For using this project:
 - Fork the project and download as a zip.
 - Now extract and open the folder.
 - Now open the folder with terminal and go to Image_uploader .
-- Run commands: npm install nodemon server.js
+- Run commands: npm install nodemon server.js.
+- Then run npm start.
 - The server will start locally at the port shown on terminal.
 
 
