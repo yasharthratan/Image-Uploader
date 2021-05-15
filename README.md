@@ -14,7 +14,14 @@ Image uploader using node and express.
   - Mongoose
   - Node.js
 
+## Instructions to Install and Setup:
+For using this project:
 
+- Fork the project and download as a zip.
+- Now extract and open the folder.
+- Now open the folder with terminal.
+- Run commands: npm install nodemon server.js
+- The server started locally at the port shown on terminal.
 
 
 ```javascript
